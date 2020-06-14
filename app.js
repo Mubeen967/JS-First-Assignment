@@ -104,7 +104,7 @@
 
 
 
-//Chapter # 3 Variable Names Legal and Illegal
+//Chapter # 4 Variable Names Legal and Illegal
 
 //Task # 1
 // var myName , farherName , age;
@@ -122,7 +122,7 @@
 // var n ame;
 // var 3 = "name";
 
-//Task # 4
+//Task # 3
 // document.write("Rules for naming JS variables" +"<br>");
 // document.write("Variable names can only contain numbers , $ and _. For Example : $my_1stVariable" +"<br>");
 // document.write("Variables must begin with a $ and _ . For Example : $name , _name or name" +"<br>");
