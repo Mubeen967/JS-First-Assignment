@@ -785,13 +785,14 @@
 //Task # 2
 // var arr = [[0,1,2,3] , [1,0,1,2],[2,1,0,1]];
 // for (var i=0 ; i<arr.length ; i++){
-//     for (j=0 ; j< 4 ;j++){
-//     document.write(arr[i][j]  );
+//     for ( var j=0 ; j< arr[i].length ;j++){
+//     document.write(arr[i][j] +" " );
 //     }
-    
-
-
+//     document.write("<br>");
 // }
+
+
+
 
 //Task # 3
 // var i;
@@ -864,12 +865,13 @@
 // var input = prompt("Welcome to our Bakery. What do you want to order ?")
 // for (var i = 0 ; i< A.length ; i++){
 //     if(input===A[i]){
-//         document.write(input + " is available at index " +i +"in our bakery")
-//     }
-    
-// }
+//         alert(input + " is available at index " +i +"in our bakery")
+//     }}
+
+//     else {
 
 //     document.write(" We are sorry . pastry is not available in our bakery.")
+//     }
 
 
 //Task # 8
